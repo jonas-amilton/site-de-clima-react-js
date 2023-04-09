@@ -2,4 +2,18 @@
 
 Um site de clima-tempo com consumo da api openweather utilizando React JS
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<div align="center">
+
+## Versão Desktop
+
+<img src="public/images/desktop.png">
+
+## Versão Mobile
+
+<img src="public/images/mobile.png">
+
+</div>
+
+### Demonstração
+
+<a target="_blank" href="https://site-de-clima-react-js.vercel.app/">Clique aqui</a>
